@@ -14,7 +14,7 @@
   "homepage": "https://github.com/swathisprasad/nodejs-serve-content-via-aws-cdn/blob/master/README.md",
   "dependencies": {
     "express": "4.17.1",
-    "express-basic-auth": "1.2.0",
+    "express-basic-auth": "1.2.1",
     "ts-node-dev": "^1.0.0-pre.40"
   },
   "devDependencies": {
